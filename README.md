@@ -20,9 +20,15 @@ DC540 hacking challenge 0x00002.
 ## BRIEF
 The SEAL Team 8 message has been successfully decoded and we have learned that the entire, "Dark Eyes", physical infrastructure is designed solely with MicroPython and the specific hardware of choice is the Raspberry Pi Pico microcontroller which contain the frozen MicroPython bytecode within the .elf and .uf2 firmware images that Dr. Rinn and her team has developed.
 
+Natalia Agapov, a "Dark Eyes" Infrastructure Engineer, sympathetic to the extensive damage the SolarWinds hacks have done around the world decided to use her burner phone to capture a screen-shot of a collection of hand-written post-it notes outside Dr. Rinn's private study.
 
+She then went direclty to the one and only way in or out of the elaborate compound which is located at Gate 1337 to which she escaped the "Dark Eyes" underground compound and managed to make her way to Vladivostok, Russia by means of the Trans-Siberian Railway where she came across the Internet-Magazin where she found a hardwired laptop inside what appeared to be an abandoned building.
 
+She was able to download the Tor Browser and successfully navigate to emailondeck.com where she created a temp e-mail address and send and email to the "Five Eyes" HQ, Pine Gap, in Alice Springs, Australia along with her physical coordinates in the hopes she might be rescued out of Russia to which she would hand off her burner phone with the image and her usb drive containing the .elf and .uf2 firmware of the 1337 Gate firmware.
 
+Bets Fielding was tasked with sneaking on board the DBS Cruise Ferry to where she would meet up with Natalia and bring her safely back to Sakaiminato, Japan where she would get Natalia a new identity in Japan with the help of the allied forces.
+
+When Bets arrived back to Northern Virginia she and her team met in their newly built classified field office.  
 
 <br>
 
