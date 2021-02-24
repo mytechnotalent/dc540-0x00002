@@ -35,11 +35,7 @@ When Bets arrived back home, she and her team met in their newly constructed cla
 
 They flashed the .uf2 on a Raspberry Pi Pico to see how specifically the firmware operated and ran an unsuccessful string analysis as all of the relevant strings were encrypted with the world's most advanced encryption referred to as the Rinn Encryption.
 
-The team cloned the latest Radare2 repo and built from source at https://github.com/radareorg/radare2 and use an Ubuntu distro.  They then ran `radare2 -w arm -b 16 firmware.elf` and then `aaaa` and began to search the strings by typing `iz ~..` however found no usable strings.
-
-They made some changes to the MicroPython bytecode and then ran `elf2uf2 firmware.elf firmware.uf2` and then flashed the .uf2 to the Pico.
-
-To date they have not been able to crack the 1337 Gate password and are struggling to find next steps.
+The team cloned the latest Radare2 repo and built from source at https://github.com/radareorg/radare2. They used an Ubuntu distro. First they ran `radare2 -w arm -b 16 firmware.elf`. Then they ran `aaaa` and began to search the strings by typing `iz ~..` However, they found no usable strings. They made some changes to the MicroPython bytecode, ran `elf2uf2 firmware.elf firmware.uf2`, and finally flashed the .uf2 to the Pico. To date they have not been able to crack the 1337 Gate password and are struggling to find next steps.
 
 Bets also reviewed the QSTR MicroPython Documentation to get familiar with how MicroPython handled strings located at  https://docs.micropython.org/en/latest/develop/qstr.html.
 
