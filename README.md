@@ -42,7 +42,7 @@ Bets also reviewed the QSTR MicroPython Documentation to get familiar with how M
 <br>
 
 ## MISSION
-You have been selected by the DC540 ANGELS OF DEATH to be the Reverse Engineer on this mission. Your task is to review the attached capture.png and bc0.h to find clues of where to begin reverse engineering the .elf binary. Your mission is to hack the MicroPython bytecode and use the elf2uf2 conversion utility to get the entrance flag and report back to Field Marshall Fortune with your results by sending a private Discord DM to Bets Fielding.
+You have been selected by the DC540 ANGELS OF DEATH to be the Reverse Engineer on this mission. Your task is to review the attached capture.png and bc0.h to find clues of where to begin reverse engineering the .elf binary. Your mission is to hack the MicroPython bytecode and use the elf2uf2 conversion utility to get the entrance flag and report back to, "The Assassin" with your results by sending a private Discord DM to Bets Fielding.
 
 ## HINT
 "Sometimes it is good to have a Russian translator."
