@@ -1,7 +1,7 @@
 ![image](https://github.com/mytechnotalent/dc540-0x00001/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
 
 # dc540-0x00002
-DC540 hacking challenge 0x00002.
+DC540 hacking challenge 0x00002 [MicroPython CTF].
 
 <br>
 
