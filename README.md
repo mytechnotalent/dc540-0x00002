@@ -37,7 +37,7 @@ They flashed the .uf2 on a Raspberry Pi Pico to see how specifically the firmwar
 
 The team cloned the latest Radare2 repo and built from source at https://github.com/radareorg/radare2 and use an Ubuntu distro.  They then ran `radare2 -w arm -b 16 firmware.elf` and then `aaaa` and began to search the strings by typing `iz ~..` however found no usable strings.
 
-They made some changes to the MicroPython bytecode and then ran `elf2uf2/elf2uf2 firmware.elf firmware.uf2` and then flashed the .uf2 to the Pico.
+They made some changes to the MicroPython bytecode and then ran `elf2uf2 firmware.elf firmware.uf2` and then flashed the .uf2 to the Pico.
 
 To date they have not been able to crack the 1337 Gate password and are struggling to find next steps.
 
