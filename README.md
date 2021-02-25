@@ -26,11 +26,13 @@ DC540 hacking challenge 0x00002 [MicroPython CTF].
 [Set of 2 x 20-pin Headers for Raspberry Pi Pico](https://www.canakit.com/set-of-2-20-pin-headers-for-raspberry-pi-pico.html)<br>
 [830 Hole Breadboard](https://www.canakit.com/solderless-breadboard-830-hole.html)<br>
 [Jumper Wires Male to Male - Pack of 30](https://www.canakit.com/jumper-wires-male-to-male-6.html)<br>
+[20 Pcs 6 mm 2 Pin Momentary Tactile Tact Push Button Switch Through Hole Breadboard](https://www.amazon.com/Momentary-Tactile-Through-Breadboard-Friendly/dp/B07WF76VHT)
 [Micro USB Cable High Speed Data and Charging, Nylon Braided Charger Cord, 3-Pack, 3 Feet](https://www.amazon.com/Rankie-Micro-Charging-Braided-3-Pack/dp/B01JPDTZXK)<br>
 
 ## Schematic
 ![image]()
 
+<br>
 
 ## BRIEF
 The SEAL Team 8 message has been successfully decoded, and we have learned that the entire “Dark Eyes” physical infrastructure is designed solely with MicroPython. The specific hardware of choice is the Raspberry Pi Pico microcontroller which contains the frozen MicroPython bytecode within the .elf and .uf2 firmware images that Dr. Rinn and her team have developed.
