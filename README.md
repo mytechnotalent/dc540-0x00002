@@ -22,11 +22,11 @@ DC540 hacking challenge 0x00002 [MicroPython CTF].
 <br>
 
 ## Parts
-[Raspberry Pi Pico](https://www.canakit.com/raspberry-pi-pico.html?cid=usd&src=raspberrypi)
-[Set of 2 x 20-pin Headers for Raspberry Pi Pico](https://www.canakit.com/set-of-2-20-pin-headers-for-raspberry-pi-pico.html)
-[830 Hole Breadboard](https://www.canakit.com/solderless-breadboard-830-hole.html)
-[Jumper Wires Male to Male - Pack of 30](https://www.canakit.com/jumper-wires-male-to-male-6.html)
-[Micro USB Cable High Speed Data and Charging, Nylon Braided Charger Cord, 3-Pack, 3 Feet](https://www.amazon.com/Rankie-Micro-Charging-Braided-3-Pack/dp/B01JPDTZXK)
+[Raspberry Pi Pico](https://www.canakit.com/raspberry-pi-pico.html?cid=usd&src=raspberrypi)<br>
+[Set of 2 x 20-pin Headers for Raspberry Pi Pico](https://www.canakit.com/set-of-2-20-pin-headers-for-raspberry-pi-pico.html)<br>
+[830 Hole Breadboard](https://www.canakit.com/solderless-breadboard-830-hole.html)<br>
+[Jumper Wires Male to Male - Pack of 30](https://www.canakit.com/jumper-wires-male-to-male-6.html)<br>
+[Micro USB Cable High Speed Data and Charging, Nylon Braided Charger Cord, 3-Pack, 3 Feet](https://www.amazon.com/Rankie-Micro-Charging-Braided-3-Pack/dp/B01JPDTZXK)<br>
 
 ## Schematic
 ![image]()
