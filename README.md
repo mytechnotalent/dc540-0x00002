@@ -1,4 +1,4 @@
-![image](https://github.com/mytechnotalent/dc540-0x00001/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
+![image](https://github.com/mytechnotalent/dc540-0x00002/blob/main/DC540%20Angels%20Of%20Death.png)
 
 # dc540-0x00002 [MicroPython CTF]
 DC540 hacking challenge 0x00002 [MicroPython CTF].
@@ -30,7 +30,7 @@ DC540 hacking challenge 0x00002 [MicroPython CTF].
 [Micro USB Cable High Speed Data and Charging, Nylon Braided Charger Cord, 3-Pack, 3 Feet](https://www.amazon.com/Rankie-Micro-Charging-Braided-3-Pack/dp/B01JPDTZXK)<br>
 
 ## Schematic
-![image]()
+![image](https://github.com/mytechnotalent/dc540-0x00002/blob/main/schematic.png?raw=true)
 
 <br>
 
