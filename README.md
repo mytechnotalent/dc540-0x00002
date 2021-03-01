@@ -29,6 +29,8 @@ DC540 hacking challenge 0x00002 [MicroPython CTF].
 #### [20 Pcs 6 mm 2 Pin Momentary Tactile Tact Push Button Switch Through Hole Breadboard](https://www.amazon.com/Momentary-Tactile-Through-Breadboard-Friendly/dp/B07WF76VHT)
 #### [Micro USB Cable High Speed Data and Charging, Nylon Braided Charger Cord, 3-Pack, 3 Feet](https://www.amazon.com/Rankie-Micro-Charging-Braided-3-Pack/dp/B01JPDTZXK)
 
+<br>
+
 ## Schematic
 ![image](https://github.com/mytechnotalent/dc540-0x00002/blob/main/schematic.png?raw=true)
 
