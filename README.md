@@ -60,7 +60,7 @@ Bets also reviewed the QSTR MicroPython Documentation to get familiar with how M
 You have been selected by the DC540 ANGELS OF DEATH to be the Reverse Engineer on this mission. Your task is to review the attached `capture.png` and `bc0.h` to find clues of where to begin reverse engineering the .elf binary. Your mission is to flash a Raspberry Pi Pico with the `firmware.uf2` firmware and see how it operates.  Review the `firmware.elf` firmware and hack the MicroPython bytecode using Radare2 and use the `elf2uf2` conversion utility get a new `firmware.uf2` and re-flash the Raspberry Pi Pico to get the entrance flag and report back to, "The Architect" with your results by sending a private Discord DM to Kevin Thomas.
 
 ## HINT
-"Sometimes it is good to have a Russian translator."
+"You will know you have the flag as it will end with, `for processing...`."
 
 <br>
 
